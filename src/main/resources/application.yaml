@@ -1,0 +1,9 @@
+server:
+  port: 8091
+
+spring:
+  jpa:
+    properties:
+      hibernate:
+        show_sql: true
+        format_sql: true
